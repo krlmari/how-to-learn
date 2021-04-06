@@ -146,6 +146,12 @@ p, h2, h3 {
   margin-left: 100px;
 }
 
+@media (max-width: 1350px) {
+  .cards__item:last-child {
+    margin-left: 0;
+  }
+}
+
 .cards__title {
   margin-top: 43px;
   margin-bottom: 16px;
