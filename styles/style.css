@@ -336,7 +336,6 @@ p, h2, h3 {
   font-weight: normal;
 }
 
-
 .kaufman {
   position: relative;
   background-color: #1f1f1f;
@@ -437,28 +436,33 @@ p, h2, h3 {
 }
 
 .footer__author {
+  line-height: 25px;
+  font-size: 18px;
+  font-weight: normal;
   color: white;
 }
 
 .footer__column-heading {
+  line-height: 30px;
+  font-size: 18px;
+  font-weight: bold;
+  margin-top: 0;
   margin-bottom: 20px;
   color: white;
-}
-
-.footer__column-links {
-  margin-bottom: 16px;
 }
 
 .footer__column-links,
 .footer__column-link {
   display: flex;
   flex-direction: column;
+  line-height: 30px;
+  font-size: 18px;
+  font-weight: normal;
 }
 
 .footer__link {
   text-decoration: none;
   color: white;
-  margin-bottom: 16px;
 }
 
 .footer__icon {
