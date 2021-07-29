@@ -1,2 +1,2 @@
-# how-to-learn_yandex-praktikum
-https://krlmari.github.io/how-to-learn_yandex-praktikum/
+# how-to-learn
+https://krlmari.github.io/how-to-learn/
